@@ -32,7 +32,8 @@
 
 [포트폴리오](https://github.com/hnymon/portfolio)
 
-
+😊 DAILY CODING TEST
+[VELOG](https://velog.io/@bh7852/series/Java-%EC%A7%80%EC%8B%9D)
 <!--
 **hnymon/hnymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
