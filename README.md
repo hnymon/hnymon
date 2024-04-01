@@ -37,6 +37,11 @@
 [VELOG](https://velog.io/@bh7852/series/Java-%EC%A7%80%EC%8B%9D)
 <br/>
 [CodingTestRepo](https://github.com/hnymon/Coding_test_Repo)
+
+## 💻 Git stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangyosim&show_icons=true&theme=cobalt)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangyosim&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" height = "195px"/>
+
 <!--
 **hnymon/hnymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
