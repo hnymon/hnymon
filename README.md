@@ -39,8 +39,8 @@
 [CodingTestRepo](https://github.com/hnymon/Coding_test_Repo)
 
 ## 💻 Git stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangyosim&show_icons=true&theme=cobalt)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangyosim&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" height = "195px"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnymon&show_icons=true&theme=cobalt)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnymon&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" height = "195px"/>
 
 <!--
 **hnymon/hnymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
